@@ -1,0 +1,21 @@
+{
+  "name": "mvc4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongo.server.js",
+  "scripts": {
+    "dev": "nodemon mongo.server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
